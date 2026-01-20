@@ -1,4 +1,4 @@
-<h1 align="center">SKN_Family_26기</h1>
+<h1 align="center">🦋SKN_Family_26기</h1>
 
 <div align="center">
   <h3>🌱 SK Network Family AI Camp 26기 전종혁입니다.</h3>
